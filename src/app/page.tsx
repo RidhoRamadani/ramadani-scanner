@@ -51,7 +51,7 @@ export default function Home() {
             <Scan className="h-5 w-5 text-white animate-pulse" />
           </div>
           <span className="font-semibold text-base tracking-tight">
-            CamScan<span className="text-primary font-bold">Pro</span>
+            SmansaScan<span className="text-primary font-bold">Pro</span>
           </span>
         </Link>
 
@@ -190,7 +190,7 @@ export default function Home() {
       {/* FOOTER */}
       <footer className="relative z-10 w-full max-w-7xl mx-auto px-6 py-8 border-t border-white/5 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-zinc-500 font-semibold select-none mt-auto">
         <div className="flex items-center gap-2">
-          <span>© 2026 CamScan Pro. All rights reserved.</span>
+          <span>© 2026 SmansaScan Pro. All rights reserved.</span>
         </div>
 
         <div className="flex items-center gap-1">

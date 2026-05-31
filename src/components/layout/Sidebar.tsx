@@ -91,7 +91,7 @@ export default function Sidebar() {
               exit={{ opacity: 0 }}
               className="font-semibold tracking-tight bg-gradient-to-r from-foreground to-foreground/80 bg-clip-text text-transparent"
             >
-              CamScan<span className="text-primary font-bold">Pro</span>
+              SmansaScan<span className="text-primary font-bold">Pro</span>
             </motion.span>
           )}
         </Link>

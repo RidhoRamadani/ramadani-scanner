@@ -29,7 +29,7 @@ export default function Navbar() {
             <Scan className="h-4 w-4 text-white" />
           </div>
           <span className="font-semibold text-sm tracking-tight">
-            CamScan<span className="text-primary font-bold">Pro</span>
+            SmansaScan<span className="text-primary font-bold">Pro</span>
           </span>
         </Link>
 
